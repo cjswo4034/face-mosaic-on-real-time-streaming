@@ -11,7 +11,6 @@
 
 ## Document
 
-![img1](./explain/doc-1.jpg)
 ![img2](./explain/doc-2.jpg)
 ![img3](./explain/doc-3.jpg)
 ![img4](./explain/doc-4.jpg)
